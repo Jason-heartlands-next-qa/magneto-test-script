@@ -4,15 +4,15 @@ Hi there! Thank you for reviewing my script!
 
 ## **Overview**
 
-This script automates the process of purchasing a product from the Magento e-commerce platform. It navigates through the website, selects a product based on specific criteria, adds it to the cart, and completes the purchase.
+This script automates the process of purchasing a product from the Magento e-commerce platform. It navigates through the website, selects a product based on specific criteria, adds it to the cart, and completes the purchase. (Apologies for not doing it in Javascript. I'm more familiar with Python. I also tried to reduce the dependcies to just two; Python and Chrome)
 
 
 ### **Features**
-Automatic Dependency Installation: The script checks for required packages and installs them if not present
-Product Selection: Navigates to the 'Men' category, selects the 'Tees' sub-category, and applies a 'Black' color filter
-Product Configuration: Chooses a random quantity (between 1 to 9) for the selected product
-Checkout Process: Adds the product to the cart, enters user details, and completes the purchase
-Purchase Verification: Asserts the success of the purchase and prints a success message
+- Automatic Dependency Installation: The script checks for required packages and installs them if not present
+- Product Selection: Navigates to the 'Men' category, selects the 'Tees' sub-category, and applies a 'Black' color filter
+- Product Configuration: Chooses a random quantity (between 1 to 9) for the selected product
+- Checkout Process: Adds the product to the cart, enters user details, and completes the purchase
+- Purchase Verification: Asserts the success of the purchase and prints a success message
 
 
 ### Prerequisites
