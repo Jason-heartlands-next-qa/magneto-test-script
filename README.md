@@ -1,0 +1,1 @@
+# magneto-test-script
